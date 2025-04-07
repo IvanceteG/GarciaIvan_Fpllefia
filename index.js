@@ -1,4 +1,4 @@
-console.log("Hola mundoo!");
+
 
 const bd = [
     {   nombre: "Eva Aranda", 
